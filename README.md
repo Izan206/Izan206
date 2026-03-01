@@ -3,7 +3,7 @@
 
 <br>
 
-<p> <h3>Sobre Mi:</h3></p><p><img align="right" src="https://i.imgur.com/XWkm8rK.gif"/></p>
+<p> <h3>Sobre Mi:</h3></p><p><img align="right" src="https://i.imgur.com/XWkm8rK.gif" height="375" width="425"/></p>
 
 <br>
 
@@ -20,7 +20,7 @@
 <h3 align="left">Linkedin:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/izan-alvarez/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"height="30" width="40" /></a>
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 
 <br>
