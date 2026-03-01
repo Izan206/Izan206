@@ -1,14 +1,14 @@
 <h1>Hola 👋, soy Izan</h1>
 <h3>Desarrollador Web en Prácticas</h3>
 
-<p> <h3>Sobre Mi:</h3></p><p><img align="right" src="https://i.imgur.com/XWkm8rK.gif" height="375" width="425"/></p>
+<p> <h3>Sobre Mí:</h3></p><p><img align="right" src="https://i.imgur.com/XWkm8rK.gif" height="375" width="425"/></p>
 
 
-- 🌱 Tengo 20 años y actualmente estoy aprendiendo React, JavaScript y Python.
+- 💻 Tengo 20 años y actualmente estoy aprendiendo React, JavaScript y Python.
 
 - ⚡ Estoy comenzando mi camino en el mundo laboral.
 
-- 📫 Puedes contactarme en **alvarezvarelaizan@gmail.com**
+- 📩 Puedes contactarme en **alvarezvarelaizan@gmail.com**
 
 
 <h3 align="left">Linkedin:</h3>
@@ -17,7 +17,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
