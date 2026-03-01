@@ -1,11 +1,8 @@
 <h1>Hola 👋, soy Izan</h1>
 <h3>Desarrollador Web en Prácticas</h3>
 
-<br>
-
 <p> <h3>Sobre Mi:</h3></p><p><img align="right" src="https://i.imgur.com/XWkm8rK.gif" height="375" width="425"/></p>
 
-<br>
 
 - 🌱 Tengo 20 años y actualmente estoy aprendiendo React, JavaScript y Python.
 
@@ -14,16 +11,11 @@
 - 📫 Puedes contactarme en **alvarezvarelaizan@gmail.com**
 
 
-
-<br>
-
 <h3 align="left">Linkedin:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/izan-alvarez/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
-
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
