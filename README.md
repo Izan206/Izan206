@@ -18,6 +18,7 @@
 </p>
 
 <h3 align="left">Tech Stack:</h3>
+<div style="display: flex;">
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -44,3 +45,4 @@
       alt="mysql" width="40" height="40" /> </a> </a> </p>
 
 <br>
+</div>
