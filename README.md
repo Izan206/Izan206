@@ -1,5 +1,5 @@
 <h1>Hola 👋, soy Izan</h1>
-<h3>Desarrollador Web en Prácticas</h3>
+<h3>Desarrollador Web</h3>
 
 <p> <h3>Sobre Mí:</h3></p><p><img align="right" src="https://i.imgur.com/XWkm8rK.gif" height="375" width="425"/></p>
 
